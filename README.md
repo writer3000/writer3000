@@ -1,6 +1,6 @@
 
 
-### <div align="center">Hi👋, I'm Andrei and I create design projects</div>  
+## <div align="center">Hi👋, I'm Andrei and I create design projects</div>  
   
 
 - 🧠 I’m currently working on the implementation of [ChatGPT](https://chat.openai.com/) in my project.   
